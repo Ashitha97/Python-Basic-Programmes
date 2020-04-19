@@ -7,3 +7,5 @@ Python's design philosophy emphasizes code readability with its notable use of s
 2 second programme is Simple Pattern Printing
 
 3 Fibinocci series
+
+4 Palindrome of a given string or integer
