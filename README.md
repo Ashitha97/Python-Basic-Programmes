@@ -3,3 +3,4 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
 
 1 First Python  programme is printing simple hello world
+2 Simple Pattern Printing
