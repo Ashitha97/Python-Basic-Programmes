@@ -4,10 +4,10 @@ Python's design philosophy emphasizes code readability with its notable use of s
 
 This repositary contains python basic programmes
 
-1 First Python  programme is printing simple hello world.
+Hello World.ipynb: Programme to print Hello World!.
 
-2 Second programme is Simple Pattern Printing.
+Pattern printing ipynb: Programme to print pattern.
 
-3 Fibinocci series.
+Fibinocci series.ipynb: Programme to print fibinocci series.
 
-4 Palindrome of a given string or integer.
+Palindrome.ipynb: Programme to print palindrome.
